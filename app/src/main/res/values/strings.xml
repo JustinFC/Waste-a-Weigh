@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WaW_A1</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_tips">Tips</string>
+    <string name="tipsButton">Tips</string>
+</resources>
