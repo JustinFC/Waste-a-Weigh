@@ -27,7 +27,7 @@ The settings page is there to provide user control over both the scale and the a
 ### Statistics
 The statistics page aims to be the brunt of the visualization of the waste amounts. By collecting data from the scale, this page should relay how much waste the user is creating. Through research, we found that a lot of people tend to not care about food waste partially because they were unable to feel the weight of the issue - they were not able to feel the negative effects of throwing away the food. This page aims to put the food waste in perspective to help alleviate this issue. 
 
-### Current Capabilities 
+## Current Capabilities 
 This application is still a large work in progress. It maintains a minimum amount of functionality for being an application but is an application nonetheless. It is able to do the following:
 - Utilize buttons to go to other activities
 - Enable/disable bluetooth
